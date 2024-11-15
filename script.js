@@ -52,9 +52,29 @@
 
 // exercice 4
 
-const amis = ["Ali", "Hamza", "Clément", "Karl"]
 
-for (let i = 0; i < amis.length; i++) {
+
+
+
+// exercice 5.1
+// let chiffre = 2
+// let nbre = prompt("Veuillez choisir un nombre compris entre 1 et 3");
+
+
+// while(nbre != chiffre || nbre == chiffre){
+//     if(nbre == chiffre)
+//     alert("vous avez gagné")
+
+// else if(nbre != chiffre)
+//     alert("vous avez perdu")
+// }
+
+
+
+
+// exercice 5.2
+
+
+ 
+
    
-    
-}
